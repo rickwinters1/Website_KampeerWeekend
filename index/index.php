@@ -5,13 +5,12 @@
     <title>Document</title>
 </head>
 <body>
+
 <?php
-/**
- * Created by PhpStorm.
- * User: Thijs van Dam
-* Date: 4/16/2016
-* Time: 11:07
-*/ ?>
-aa
+$hoi = "hoi";
+$hoi2 = "adsfgadfs";
+
+echo ($hoi . $hoi2);
+
+?>
 </body>
-</html>
